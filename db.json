@@ -1,244 +1,1189 @@
 {
     "products": [
-        {
-          "id": 1,
-          "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-          "price": 109.95,
-          "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-          "rating": {
-            "rate": 3.9,
+      {
+        "title": "Nike Sportswear Backpack",
+        "price": 45.99,
+        "description": "Durable Nike backpack designed for sports and daily use. Features multiple compartments and a comfortable back panel.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20210729/WOYS/6102ce38f997ddb3123f4229/-473Wx593H-460899217-black-MODEL2.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 80
+        }
+      },
+      {
+        "title": "Adidas Classic Backpack",
+        "price": 39.95,
+        "description": "A simple yet spacious Adidas backpack with adjustable shoulder straps and a front zip pocket.",
+        "category": "men's clothing",
+        "color": "red",
+        "size": "small",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/dddcdca88d3043e6ae04521ef2ee8c50_9366/Adicolor_Backpack_Burgundy_IX7455_01_standard.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 150
+        }
+      },
+      {
+        "title": "Puma Unisex Backpack",
+        "price": 49.99,
+        "description": "Versatile Puma backpack, perfect for school or travel. Features a main compartment and side pockets for bottles.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/81oOez-DdUL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 120
+        }
+      },
+      {
+        "title": "Under Armour Hustle 4.0 Backpack",
+        "price": 64.99,
+        "description": "A stylish and functional backpack from Under Armour. Padded laptop sleeve and water-resistant fabric.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20201029/9t3v/5f99ce3ef997dd8c837da9aa/-473Wx593H-460754215-black-MODEL.jpg",
+        "rating": {
+          "rate": 4.8,
+          "count": 200
+        }
+      },
+      {
+        "title": "Eastpak Padded Pak'r Backpack",
+        "price": 70.00,
+        "description": "A classic and durable backpack by Eastpak. Great for everyday use with ample storage space.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjx63RNr9L91lU0JkZQi_hEkSK7ZuWpyHyg&s",
+        "rating": {
+          "rate": 4.5,
+          "count": 180
+        }
+      },
+      {
+        "title": "The North Face Jester Backpack",
+        "price": 55.99,
+        "description": "This stylish backpack from The North Face features ergonomic shoulder straps and a padded laptop sleeve.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/91bBW1+3JJL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 210
+        }
+      },
+      {
+        "title": "Samsonite Openroad Laptop Backpack",
+        "price": 89.95,
+        "description": "A premium laptop backpack from Samsonite with RFID blocking and a padded sleeve for laptops up to 15 inches.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://i.pinimg.com/736x/7c/65/84/7c65847d8868945600b2150061fc26a7.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 170
+        }
+      },
+      {
+        "title": "Fjällräven Kånken Backpack",
+        "price": 80.00,
+        "description": "Classic Fjällräven Kånken backpack, perfect for outdoor adventures and daily wear. Features a spacious main compartment.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "medium",
+        "image": "https://modernquests.com/cdn/shop/files/fjallraven-kanken-laptop-backpack-15-ox-red-1.jpg?v=1690059881",
+        "rating": {
+          "rate": 4.7,
+          "count": 300
+        }
+      },
+      {
+        "title": "Columbia Zigzag 2.0 Backpack",
+        "price": 55.00,
+        "description": "A durable and functional backpack for sports and outdoor activities. Includes a hydration sleeve.",
+        "category": "men's clothing",
+        "color": "blue",
+        "size": "large",
+        "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/Columbia/09jan2025/UU6312-465-1.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 130
+        }
+      },
+      {
+        "title": "Herschel Little America Backpack",
+        "price": 89.00,
+        "description": "Timeless design by Herschel. A spacious and stylish backpack with adjustable straps.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9anoOAEQeZFsA4R2_6XkLliM7XFHwaRhuA&s",
+        "rating": {
+          "rate": 4.8,
+          "count": 250
+        }
+      },
+      {
+        "title": "L.L. Bean Deluxe Book Pack",
+        "price": 49.95,
+        "description": "Classic L.L. Bean book pack designed for school, with plenty of compartments and sturdy build.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzC32Tq56WjZjUDfvd-44r3HlvOmQsf75Ctw&s",
+        "rating": {
+          "rate": 4.4,
+          "count": 90
+        }
+      },
+      {
+        "title": "Targus CitySmart Backpack",
+        "price": 74.99,
+        "description": "Targus CitySmart backpack designed for business professionals with a padded compartment for laptops.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "large",
+        "image": "https://cluse.com/cdn/shop/files/CX04502_frontal.jpg?v=1723799450&width=1080",
+        "rating": {
+          "rate": 4.5,
+          "count": 160
+        }
+      },
+      {
+        "title": "Jack Wolfskin Moab Jam 24 Backpack",
+        "price": 59.00,
+        "description": "A high-quality outdoor backpack from Jack Wolfskin. Perfect for hiking with hydration system compatibility.",
+        "category": "women's clothing",
+        "color": "grey",
+        "size": "large",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL52A3797dsLVoLIQLrYaHeiC53rHXUBLDwA&s",
+        "rating": {
+          "rate": 4.4,
+          "count": 110
+        }
+      },
+      {
+        "title": "Patagonia Arbor Grande Backpack",
+        "price": 99.00,
+        "description": "Patagonia’s Arbor Grande backpack offers plenty of room and eco-friendly materials.",
+        "category": "unisex",
+        "color": "red",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoNHbYrqYsCU7xy7drZDei2XEtdQjnnCyZQ&s",
+        "rating": {
+          "rate": 4.7,
+          "count": 120
+        }
+      },
+      {
+        "title": "Carhartt Legacy 17 Inch Laptop Backpack",
+        "price": 89.99,
+        "description": "Rugged Carhartt backpack for laptop protection, with extra durability for outdoor work and adventures.",
+        "category": "men's clothing",
+        "color": "brown",
+        "size": "large",
+        "image": "https://www.backpacks4less.com/cdn/shop/products/81k7QGwZONL_1024x1024.jpg?v=1578369560",
+        "rating": {
+          "rate": 4.5,
+          "count": 220
+        }
+      },
+      {
+        "title": "Osprey Daylite Plus Backpack",
+        "price": 65.00,
+        "description": "Compact and functional backpack for day hikes and short trips. Compatible with Osprey’s hydration system.",
+        "category": "unisex",
+        "color": "grey",
+        "size": "small",
+        "image": "https://threadfellows.com/cdn/shop/products/osprey-bags-one-size-black-osprey-daylite-plus-backpack-28279248125975_1024x1024.jpg?v=1742390992",
+        "rating": {
+          "rate": 4.6,
+          "count": 140
+        }
+      },
+      {
+        "title": "Eddie Bauer Stowaway Daypack",
+        "price": 39.95,
+        "description": "Packable Eddie Bauer backpack that folds into a small pouch for easy storage. Ideal for travel.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://i.pinimg.com/736x/e0/a7/5c/e0a75cf528914f6697f02d3b7062d211.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 130
+        }
+      },
+      {
+        "title": "Deuter Aircontact Lite 45+10 Backpack",
+        "price": 179.00,
+        "description": "A high-performance hiking backpack by Deuter. Features Aircontact ventilation and plenty of space.",
+        "category": "unisex",
+        "color": "black",
+        "size": "large",
+        "image": "https://5.imimg.com/data5/EQ/JK/MY-40809949/deuter-trekking-aircontact-45-10-granite-black.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 85
+        }
+      },
+      {
+        "title": "Timbuk2 Classic Messenger Bag",
+        "price": 109.00,
+        "description": "A classic messenger bag with durable materials and adjustable straps for comfort and convenience.",
+        "category": "unisex",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI15IbkXJZiahyeAZaPrNKih_HCSTxgi8YzQ&s",
+        "rating": {
+          "rate": 4.5,
+          "count": 140
+        }
+      },
+      {
+        "title": "Targus Laptop Backpack",
+        "price": 39.99,
+        "description": "Affordable and practical Targus backpack with padded compartments for laptops and tablets.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "small",
+        "image": "https://m.media-amazon.com/images/I/61dUGkMvkwL._AC_UF1000,1000_QL80_.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 180
+        }
+      },
+      {
+        "title": "High-Waisted Skinny Jeans",
+        "price": 39.99,
+        "description": "Classic high-waisted skinny jeans with a comfortable stretch fit. Perfect for casual outings.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://freakins.com/cdn/shop/files/Aniwarya01525-Edit_54ec0cce-3005-4ec8-abfb-c6781cb95cad.jpg",
+        "rating": {
+            "rate": 4.5,
             "count": 120
-          }
-        },
-        {
-          "id": 2,
-          "title": "Mens Casual Premium Slim Fit T-Shirts ",
-          "price": 22.3,
-          "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-          "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-          "rating": {
+        }
+    },
+    {
+        "title": "Wide-Leg Palazzo Pants",
+        "price": 29.99,
+        "description": "Stylish wide-leg palazzo pants made from lightweight fabric. Ideal for both casual and formal occasions.",
+        "category": "women's clothing",
+        "color": "beige",
+        "size": "large",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230906/fkYp/64f837d1afa4cf41f5b8e084/-473Wx593H-461117763-beige-MODEL.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 95
+        }
+    },
+    {
+        "title": "Athletic Jogger Pants",
+        "price": 34.99,
+        "description": "Comfortable jogger pants designed for workouts and lounging. Features an elastic waistband and side pockets.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "small",
+        "image": "https://lovableindia.in/cdn/shop/files/8905700069635-3.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 150
+        }
+    },
+    {
+        "title": "Floral Print Culottes",
+        "price": 24.99,
+        "description": "Chic floral print culottes with a flowy design. Perfect for summer outings.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "medium",
+        "image": "https://wforwoman.com/cdn/shop/files/18FE61022-51304_5.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 85
+        }
+    },
+    {
+        "title": "Leather Pencil Skirt",
+        "price": 49.99,
+        "description": "Elegant leather pencil skirt with a sleek finish. Suitable for office wear or evening events.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://cdn.sosandar.com/media/catalog/product/cache/0ad62aa88f50338ba969372be71afacb/w/e/web_2408_105_a24tw016gn0024_a23sl011bk0001_105_007_2_1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 60
+        }
+    },
+    {
+        "title": "Denim Shorts",
+        "price": 19.99,
+        "description": "Casual denim shorts with a frayed hem. Perfect for summer days.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "small",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/short/m/v/3/28-mnt-3009-montrez-original-image2udjhyhcy4g-bb.jpeg",
+        "rating": {
+            "rate": 4.3,
+            "count": 110
+        }
+    },
+    {
+        "title": "Pleated Midi Skirt",
+        "price": 35.99,
+        "description": "Elegant pleated midi skirt with a high-waisted fit. Great for formal occasions.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "medium",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l0r1j0w0/skirt/f/a/c/xl-lskr08-735-dp-la-zoire-original-imagch25zpjnmha4.jpeg",
+        "rating": {
+            "rate": 4.5,
+            "count": 70
+        }
+    },
+    {
+        "title": "Cotton Capri Pants",
+        "price": 22.99,
+        "description": "Lightweight cotton capri pants with a relaxed fit. Ideal for casual wear.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "large",
+        "image": "https://www.whitewhale.co.in/cdn/shop/products/71Ks608KpxL._UL1500_26d08cbb-9cdd-4a83-84d3-868198114427.jpg",
+        "rating": {
             "rate": 4.1,
-            "count": 259
+            "count": 90
+        }
+    },
+    {
+        "title": "Ripped Boyfriend Jeans",
+        "price": 44.99,
+        "description": "Trendy ripped boyfriend jeans with a relaxed fit. Perfect for a casual look.",
+        "category": "women's clothing",
+        "color": "light blue",
+        "size": "medium",
+        "image": "https://images.bestsellerclothing.in/data/only/23-july-2022/132245001_g1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 130
+        }
+    },
+    {
+        "title": "Printed Leggings",
+        "price": 18.99,
+        "description": "Comfortable printed leggings with a stretchy fit. Great for workouts or lounging.",
+        "category": "women's clothing",
+        "color": "multicolor",
+        "size": "small",
+        "image": "https://tunactive.com/cdn/shop/files/Copyof0C0A3986.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 140
+        }
+    },
+    {
+        "title": "Corduroy A-Line Skirt",
+        "price": 32.99,
+        "description": "Stylish corduroy A-line skirt with button details. Perfect for autumn wear.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://m.media-amazon.com/images/I/81oYreTlkHL.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 75
+        }
+    },
+    {
+        "title": "Linen Wide-Leg Pants",
+        "price": 27.99,
+        "description": "Breathable linen wide-leg pants with a relaxed fit. Ideal for summer.",
+        "category": "women's clothing",
+        "color": "khaki",
+        "size": "large",
+        "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/N09287s7.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 65
+        }
+    },
+    {
+        "title": "Sequin Mini Skirt",
+        "price": 42.99,
+        "description": "Glamorous sequin mini skirt for parties and special occasions.",
+        "category": "women's clothing",
+        "color": "gold",
+        "size": "small",
+        "image": "https://images.fashiola.in/product-list/300x450/farfetch/102267306/sequin-embellished-fitted-mini-skirt.webp",
+        "rating": {
+            "rate": 4.7,
+            "count": 50
+        }
+    },
+    {
+        "title": "Cargo Pants",
+        "price": 39.99,
+        "description": "Trendy cargo pants with multiple pockets. Perfect for a casual streetwear look.",
+        "category": "women's clothing",
+        "color": "olive",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20240802/yuTJ/66acb46a6f60443f31e49862/-473Wx593H-700248552-olive-MODEL.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 100
+        }
+    },
+    {
+        "title": "Velvet Pencil Skirt",
+        "price": 36.99,
+        "description": "Luxurious velvet pencil skirt with a soft texture. Great for evening wear.",
+        "category": "women's clothing",
+        "color": "burgundy",
+        "size": "medium",
+        "image": "https://i.etsystatic.com/7164094/r/il/632112/1938087088/il_fullxfull.1938087088_gttk.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 55
+        }
+    },
+    {
+        "title": "High-Waisted Trousers",
+        "price": 45.99,
+        "description": "Sophisticated high-waisted trousers with a tailored fit. Perfect for office wear.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "large",
+        "image": "https://cdn.shopify.com/s/files/1/1742/4023/files/H1221325-TAILORED-HIGH-WAIST-TROUSER-BLACK-SCANLANTHEODORE-1_4067b66a-c2ea-4244-abfd-f6e68aae95f6.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 80
+        }
+    },
+    {
+        "title": "Denim Skirt",
+        "price": 28.99,
+        "description": "Classic denim skirt with a button-front design. Great for casual outings.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1719588244_9088537.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 95
+        }
+    },
+    {
+        "title": "Faux Leather Leggings",
+        "price": 29.99,
+        "description": "Edgy faux leather leggings with a sleek finish. Perfect for a night out.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://spanx.com/cdn/shop/files/24371.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 110
+        }
+    },
+    {
+        "title": "Wrap Maxi Skirt",
+        "price": 37.99,
+        "description": "Flowy wrap maxi skirt with a bohemian vibe. Ideal for summer vacations.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "large",
+        "image": "https://5.imimg.com/data5/ECOM/Default/2024/2/388021308/EV/DT/YK/199136748/53486434710-a85d8c5a0c-o-d-1000x1000-500x500.webp",
+        "rating": {
+            "rate": 4.3,
+            "count": 70
+        }
+    },
+    {
+        "title": "Chino Pants",
+        "price": 33.99,
+        "description": "Classic chino pants with a slim fit. Perfect for casual and semi-formal wear.",
+        "category": "women's clothing",
+        "color": "navy",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20240314/K1Cv/65f315a005ac7d77bbb6a6ce/-473Wx593H-466717880-navy-MODEL.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 85
+        }
+    },
+    {
+        "title": "Tulle Skirt",
+        "price": 26.99,
+        "description": "Whimsical tulle skirt with a layered design. Great for special occasions.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "small",
+        "image": "https://i.etsystatic.com/58440186/r/il/7aef9b/6751764480/il_fullxfull.6751764480_50lk.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 60
+        }
+    },
+    {
+        "title": "Paperbag Waist Pants",
+        "price": 38.99,
+        "description": "Trendy paperbag waist pants with a tie belt. Perfect for a chic look.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230419/WGac/643fc431907deb497af1fa2e/-473Wx593H-469430657-olive-MODEL.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 75
+        }
+    },
+    {
+        "title": "Plaid Mini Skirt",
+        "price": 31.99,
+        "description": "Preppy plaid mini skirt with a pleated design. Great for casual outings.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "small",
+        "image": "https://assets.ajio.com/medias/sys_master/root/h1c/hcd/13741457375262/-1117Wx1400H-440990298-red-MODEL.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 90
+        }
+    },
+    {
+        "title": "Knitted Pencil Skirt",
+        "price": 34.99,
+        "description": "Cozy knitted pencil skirt with a stretchy fit. Perfect for winter wear.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "large",
+        "image": "https://i.etsystatic.com/28286353/r/il/db14fe/3336578435/il_570xN.3336578435_gsbn.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 65
+        }
+    },
+    {
+        "title": "Cropped Culottes",
+        "price": 29.99,
+        "description": "Modern cropped culottes with a wide-leg fit. Great for casual and formal wear.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://gocolors.com/cdn/shop/files/LPZ6-BLACK73_3.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 80
+        }
+    },
+    {
+        "title": "Silk Wrap Dress",
+        "price": 59.99,
+        "description": "Elegant silk wrap dress with a flattering fit and soft texture. Perfect for evening events and special occasions.",
+        "category": "women's clothing",
+        "color": "emerald green",
+        "size": "medium",
+        "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015863964_437Wx649H_202212271708371.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 85
+        }
+    },
+    {
+      "title": "Nike Men's Dry Training T-Shirt",
+      "price": 29.99,
+      "description": "Nike Dry Training T-shirt, moisture-wicking fabric that keeps you dry during workouts. Features a regular fit with a crew neck.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "medium",
+      "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/t-shirt/w/r/h/-original-imahy8bjca8pwh4w.jpeg",
+      "rating": {
+        "rate": 4.4,
+        "count": 180
+      }
+    },
+    {
+      "title": "Adidas Men's Essentials 3-Stripes T-Shirt",
+      "price": 25.99,
+      "description": "Adidas Essentials 3-Stripes T-shirt featuring soft cotton for all-day comfort and a classic design with three-stripes along the shoulders.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://m.media-amazon.com/images/I/71ZNjEvzBJL.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 220
+      }
+    },
+    {
+      "title": "Puma Men's Essentials T-Shirt",
+      "price": 19.99,
+      "description": "A comfortable and soft cotton T-shirt by Puma, perfect for casual wear. Features a logo print on the chest.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "small",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231012/5gPQ/6527aa8eafa4cf41f53d7f51/-473Wx593H-466393145-grey-MODEL.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 150
+      }
+    },
+    {
+      "title": "Under Armour Tech 2.0 T-Shirt",
+      "price": 24.99,
+      "description": "Under Armour's Tech 2.0 T-shirt offers a lightweight, quick-drying material. Designed for athletes with moisture-wicking technology.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "large",
+      "image": "https://images-cdn.ubuy.co.in/66317b4e11389165b9262cb5-under-armour-ua-tech-2-0.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 130
+      }
+    },
+    {
+      "title": "Reebok Men's Classic T-Shirt",
+      "price": 18.99,
+      "description": "Reebok men's T-shirt made from soft cotton. Features the classic Reebok logo across the chest and a regular fit.",
+      "category": "men's clothing",
+      "color": "red",
+      "size": "medium",
+      "image": "https://imagescdn.reebok.in/img/app/product/3/39942162-19018078.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 180
+      }
+    },
+    {
+      "title": "Hanes Men's ComfortSoft Tagless T-Shirt",
+      "price": 14.99,
+      "description": "A classic Hanes ComfortSoft T-shirt, tagless for extra comfort. Made with soft cotton for a breathable fit.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://m.media-amazon.com/images/I/616v3zWelPL.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 250
+      }
+    },
+    {
+      "title": "Levi's Men's Graphic T-Shirt",
+      "price": 29.50,
+      "description": "Levi's iconic graphic T-shirt with a vintage logo print. Soft cotton fabric and relaxed fit for everyday wear.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "small",
+      "image": "https://levi.in/cdn/shop/files/A65880050_05_Styleshot.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 100
+      }
+    },
+    {
+      "title": "Tommy Hilfiger Men's Basic T-Shirt",
+      "price": 34.99,
+      "description": "Tommy Hilfiger men's basic T-shirt featuring the iconic Tommy logo. Designed for both casual and semi-casual occasions.",
+      "category": "men's clothing",
+      "color": "pink",
+      "size": "large",
+      "image": "https://m.media-amazon.com/images/I/81wYllpOUML.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    {
+      "title": "Calvin Klein Men's Logo T-Shirt",
+      "price": 49.99,
+      "description": "A high-quality cotton T-shirt from Calvin Klein with a bold logo on the front. Designed for comfort and style.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "medium",
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/DHWCLG4UUV8/1717668386905/1.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 200
+      }
+    },
+    {
+      "title": "Champion Men's Graphic T-Shirt",
+      "price": 22.99,
+      "description": "Champion graphic T-shirt featuring the brand's logo on the chest. A soft cotton construction for all-day wear.",
+      "category": "men's clothing",
+      "color": "brown",
+      "size": "medium",
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/84418686451e9f148c39bd1da0fb48a1/helix/01-CHAMPION-AAEV6CMPA-CMP219299BRN-Brown.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 90
+      }
+    },
+    {
+      "title": "Jack & Jones Men's Printed T-Shirt",
+      "price": 19.99,
+      "description": "Jack & Jones printed T-shirt with a modern design. Made from a cotton blend for extra comfort.",
+      "category": "men's clothing",
+      "color": "red",
+      "size": "small",
+      "image": "https://images.bestsellerclothing.in/data/JJ/7-july-2022/185437901_g1.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 110
+      }
+    },
+    {
+      "title": "Diesel Men's Logo T-Shirt",
+      "price": 44.99,
+      "description": "Diesel men's logo T-shirt with a bold design. Soft and breathable cotton fabric.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/000000410510263007/IL0EX5kOM-x-000000410510263007_1.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "title": "Fruit of the Loom Men's T-Shirt",
+      "price": 13.99,
+      "description": "Fruit of the Loom classic fit T-shirt made with 100% cotton. Ideal for casual wear or as a base layer.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "small",
+      "image": "https://m.media-amazon.com/images/I/91wTyBj4qNL.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 80
+      }
+    },
+    {
+      "title": "Gap Men's Essential T-Shirt",
+      "price": 20.00,
+      "description": "Gap Essential T-shirt featuring a soft cotton blend. Perfect for layering or wearing alone in casual settings.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "large",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240214/ueVa/65cca5c705ac7d77bb563f63/-473Wx593H-442273286-black-MODEL.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      }
+    },
+    {
+      "title": "Abercrombie & Fitch Men's Logo T-Shirt",
+      "price": 35.99,
+      "description": "A premium logo T-shirt by Abercrombie & Fitch. Soft and breathable cotton with the iconic logo on the chest.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "medium",
+      "image": "https://i.ebayimg.com/images/g/wNoAAOSwQTZj2M5f/s-l1200.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "title": "Tommy Jeans Men's Crewneck T-Shirt",
+      "price": 39.99,
+      "description": "Tommy Jeans men's crewneck T-shirt with logo on the chest. Designed for comfort and style.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240808/xAqD/66b4f2486f60443f31f8f176/-473Wx593H-469668628-blue-MODEL.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 180
+      }
+    },{
+        "title": "Levi's Men's Slim Fit T-Shirt",
+        "price": 32.99,
+        "description": "Levi's slim fit T-shirt made from soft cotton for a comfortable and stylish look. Features a small logo on the chest.",
+        "category": "men's clothing",
+        "color": "white",
+        "size": "medium",
+        "image": "https://pictures.kartmax.in/cover/live/1200x1600/quality=8/sites/9s145MyZrWdIAwpU0JYS/product-images/levis_cotton_slim_fit_plain_white_t_shirt__1727603133a7973_0024_1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 140
+        }
+        },
+        {
+        "title": "Gap Men's Vintage Logo T-Shirt",
+        "price": 27.99,
+        "description": "Gap vintage logo T-shirt with a classic fit. Made from breathable cotton for everyday comfort.",
+        "category": "men's clothing",
+        "color": "navy",
+        "size": "large",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230913/SLwO/6501ce90afa4cf41f5e19b1a/-473Wx593H-442111515-navy-MODEL2.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 120
+        }
+        },
+        {
+        "title": "Nike Men's Sportswear T-Shirt",
+        "price": 35.00,
+        "description": "Nike Sportswear T-shirt with Dri-FIT technology to keep you dry and comfortable. Features a bold logo on the front.",
+        "category": "men's clothing",
+        "color": "red",
+        "size": "large",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/kmds4nk0/t-shirt/j/n/c/m-ar4999-657-nike-original-imagfapbzt9a4vbz.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+        },
+        {
+        "title": "Adidas Men's Climalite T-Shirt",
+        "price": 28.50,
+        "description": "Adidas Climalite T-shirt designed to wick sweat away and keep you cool during workouts. Lightweight and breathable.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "medium",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c220f73eb604bc9a870e478930c1024_9366/designed-for-training-workout-tee.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 160
+        }
+        },
+        {
+        "title": "Puma Men's Graphic Tee",
+        "price": 22.99,
+        "description": "Puma graphic T-shirt with a modern design and soft cotton fabric. Perfect for casual wear.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://m.media-amazon.com/images/I/61B0yXPcHZL.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 110
+        }
+        },
+        {
+        "title": "Under Armour Men's HeatGear T-Shirt",
+        "price": 30.99,
+        "description": "Under Armour HeatGear T-shirt designed to keep you cool and dry with moisture-wicking fabric. Ideal for training.",
+        "category": "men's clothing",
+        "color": "white",
+        "size": "large",
+        "image": "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/1361524-120230713085419196.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 140
+        }
+        },
+        {
+        "title": "Reebok Men's Performance T-Shirt",
+        "price": 24.99,
+        "description": "Reebok performance T-shirt with breathable fabric and a comfortable fit. Features the Reebok logo on the chest.",
+        "category": "men's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://imagescdn.reebok.in/img/app/product/3/39704447-14481064.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 130
+        }
+        },
+        {
+        "title": "Hanes Men's Tagless Cotton T-Shirt",
+        "price": 15.99,
+        "description": "Hanes tagless cotton T-shirt for all-day comfort. Soft and breathable fabric with a classic fit.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/71Vt1WL9iCL.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 180
+        }
+        },
+        {
+        "title": "Champion Men's Jersey T-Shirt",
+        "price": 21.99,
+        "description": "Champion jersey T-shirt with a soft cotton blend. Features the iconic Champion logo on the sleeve.",
+        "category": "men's clothing",
+        "color": "green",
+        "size": "medium",
+        "image": "https://m.media-amazon.com/images/I/61BlztGoU0L.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 100
+        }
+        },
+        {
+        "title": "Jack & Jones Men's Basic Tee",
+        "price": 18.99,
+        "description": "Jack & Jones basic T-shirt made from soft cotton. A versatile piece for casual and everyday wear.",
+        "category": "men's clothing",
+        "color": "navy",
+        "size": "small",
+        "image": "https://images.bestsellerclothing.in/data/JJ/1-nov-2023/125838706_g0.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 90
+        }
+        },
+        {
+          "title": "Columbia Whirlibird IV Interchange Jacket",
+          "price": 249.99,
+          "description": "Versatile jacket from Columbia, featuring a 3-in-1 design that can be worn as a winter jacket or lightweight shell.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "large",
+          "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/Columbia/5apr2024/WE1155-858-13.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 180
           }
         },
         {
-          "id": 3,
-          "title": "Mens Cotton Jacket",
-          "price": 55.99,
-          "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+          "title": "The North Face Resolve 2 Jacket",
+          "price": 99.99,
+          "description": "A lightweight, waterproof jacket by The North Face. Perfect for outdoor adventures and wet weather.",
           "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "color": "red",
+          "size": "medium",
+          "image": "https://m.media-amazon.com/images/I/71HSPGr2cGL._AC_UY1100_.jpg",
           "rating": {
             "rate": 4.7,
-            "count": 500
+            "count": 200
           }
         },
         {
-          "id": 4,
-          "title": "Mens Casual Slim Fit",
-          "price": 15.99,
-          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "title": "Carhartt Quick Duck Chore Coat",
+          "price": 119.99,
+          "description": "A rugged jacket by Carhartt, made with water-repellent fabric and insulated to keep you warm during tough outdoor work.",
           "category": "men's clothing",
-          "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-          "rating": {
-            "rate": 2.1,
-            "count": 430
-          }
-        },
-        {
-          "id": 5,
-          "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-          "price": 695,
-          "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+          "color": "brown",
+          "size": "large",
+          "image": "https://m.media-amazon.com/images/I/51lO5AMPjiL.jpg",
           "rating": {
             "rate": 4.6,
-            "count": 400
+            "count": 150
           }
         },
         {
-          "id": 6,
-          "title": "Solid Gold Petite Micropave ",
-          "price": 168,
-          "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+          "title": "Patagonia Tres 3-in-1 Parka",
+          "price": 399.00,
+          "description": "A high-performance 3-in-1 jacket by Patagonia. Wear it as a waterproof shell, insulated jacket, or a combined parka for all weather conditions.",
+          "category": "unisex",
+          "color": "blue",
+          "size": "medium",
+          "image": "https://www.bfgcdn.com/1500_1500_90/004-4901-0211/patagonia-tres-3-in-1-parka-parka.jpg",
           "rating": {
-            "rate": 3.9,
-            "count": 70
+            "rate": 4.9,
+            "count": 110
           }
         },
         {
-          "id": 7,
-          "title": "White Gold Plated Princess",
-          "price": 9.99,
-          "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+          "title": "Adidas Outdoor Jacket",
+          "price": 79.99,
+          "description": "Lightweight and breathable jacket from Adidas, designed for comfort and functionality on outdoor trips.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "small",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20221021/TXFy/6352421caeb269659c53e076/-473Wx593H-469211498-grey-MODEL5.jpg",
           "rating": {
-            "rate": 3,
-            "count": 400
+            "rate": 4.5,
+            "count": 190
           }
         },
         {
-          "id": 8,
-          "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-          "price": 10.99,
-          "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-          "category": "jewelery",
-          "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-          "rating": {
-            "rate": 1.9,
-            "count": 100
-          }
-        },
-        {
-          "id": 9,
-          "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-          "price": 64,
-          "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-          "rating": {
-            "rate": 3.3,
-            "count": 203
-          }
-        },
-        {
-          "id": 10,
-          "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-          "price": 109,
-          "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "count": 470
-          }
-        },
-        {
-          "id": 11,
-          "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-          "price": 109,
-          "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-          "rating": {
-            "rate": 4.8,
-            "count": 319
-          }
-        },
-        {
-          "id": 12,
-          "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-          "price": 114,
-          "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 4.8,
-            "count": 400
-          }
-        },
-        {
-          "id": 13,
-          "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-          "price": 599,
-          "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "count": 250
-          }
-        },
-        {
-          "id": 14,
-          "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-          "price": 999.99,
-          "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-          "category": "electronics",
-          "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-          "rating": {
-            "rate": 2.2,
-            "count": 140
-          }
-        },
-        {
-          "id": 15,
-          "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-          "price": 56.99,
-          "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-          "rating": {
-            "rate": 2.6,
-            "count": 235
-          }
-        },
-        {
-          "id": 16,
-          "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-          "price": 29.95,
-          "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "count": 340
-          }
-        },
-        {
-          "id": 17,
-          "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-          "price": 39.99,
-          "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-          "rating": {
-            "rate": 3.8,
-            "count": 679
-          }
-        },
-        {
-          "id": 18,
-          "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-          "price": 9.85,
-          "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+          "title": "Marmot Fordham Jacket",
+          "price": 169.95,
+          "description": "A warm and durable jacket from Marmot, featuring water-resistant material and insulation for cold weather.",
+          "category": "men's clothing",
+          "color": "brown",
+          "size": "large",
+          "image": "https://m.media-amazon.com/images/I/819znOkbOFL._AC_UF894,1000_QL80_.jpg",
           "rating": {
             "rate": 4.7,
             "count": 130
           }
         },
         {
-          "id": 19,
-          "title": "Opna Women's Short Sleeve Moisture",
-          "price": 7.95,
-          "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+          "title": "Ralph Lauren Double-Breasted Peacoat",
+          "price": 250.00,
+          "description": "A classic double-breasted peacoat from Ralph Lauren, offering both style and warmth.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": "https://cdn-images.farfetch-contents.com/26/37/19/87/26371987_56057260_600.jpg",
           "rating": {
-            "rate": 4.5,
-            "count": 146
+            "rate": 4.8,
+            "count": 220
           }
         },
         {
-          "id": 20,
-          "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-          "price": 12.99,
-          "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+          "title": "The North Face Aconcagua Jacket",
+          "price": 159.99,
+          "description": "Insulated jacket from The North Face, offering lightweight warmth and breathability for active wear.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "large",
+          "image": "https://images.asos-media.com/products/the-north-face-aconcagua-2-hooded-jacket-in-blue/24339083-1-blue?$n_640w$&wid=513&fit=constrain",
           "rating": {
-            "rate": 3.6,
-            "count": 145
+            "rate": 4.6,
+            "count": 210
+          }
+        },
+        {
+          "title": "H&M Puffer Jacket",
+          "price": 49.99,
+          "description": "Affordable and stylish puffer jacket from H&M. Perfect for casual wear in chilly weather.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "small",
+          "image": "https://image.hm.com/assets/hm/23/12/23120fb6309ed6c828b06f8ee2e19443702ee7c2.jpg?imwidth=768",
+          "rating": {
+            "rate": 4.3,
+            "count": 120
+          }
+        },
+        {
+          "title": "Uniqlo BlockTech Jacket",
+          "price": 99.90,
+          "description": "The Uniqlo BlockTech jacket is designed for weather protection with windproof and waterproof capabilities.",
+          "category": "men's clothing",
+          "color": "red",
+          "size": "medium",
+          "image": "https://www.uniqlo.com/uk/en/news/sp/topics/2019030701/img/180T_230203SQb1cJ.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 160
+          }
+        },
+        {
+          "title": "Puma Essentials Jacket",
+          "price": 69.99,
+          "description": "A casual jacket from Puma, featuring a sporty look and comfortable feel. Perfect for everyday wear.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "small",
+          "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/851771/01/fnd/IND/fmt/png/Essentials-Men's-Track-Jacket",
+          "rating": {
+            "rate": 4.6,
+            "count": 140
+          }
+        },
+        {
+          "title": "Dickies Insulated Work Jacket",
+          "price": 95.00,
+          "description": "Heavy-duty insulated jacket from Dickies, designed for hard work in cold conditions.",
+          "category": "men's clothing",
+          "color": "brown",
+          "size": "large",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedgURqVXhWB4k5ao37-sGg3G8IonpQ0Tg6A&s",
+          "rating": {
+            "rate": 4.7,
+            "count": 180
+          }
+        },
+        {
+          "title": "Tommy Hilfiger Hooded Jacket",
+          "price": 129.99,
+          "description": "Stylish and cozy hooded jacket from Tommy Hilfiger, perfect for chilly days and casual wear.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "medium",
+          "image": "https://m.media-amazon.com/images/I/71tMdUU2oLL._AC_UY1100_.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 220
+          }
+        },
+        {
+          "title": "Lee Men's Performance Jacket",
+          "price": 79.99,
+          "description": "A lightweight and breathable jacket from Lee, designed for outdoor activities and casual wear.",
+          "category": "men's clothing",
+          "color": "pink",
+          "size": "medium",
+          "image": "https://cdn-img.poizonapp.com/pro-img/cut-img/20241014/8eca5f7b5589452ebdbeb6a251c08f65.jpg?x-oss-process=image/format,webp/resize,w_350",
+          "rating": {
+            "rate": 4.5,
+            "count": 140
+          }
+        },
+        {
+          "title": "Helly Hansen Seven J Jacket",
+          "price": 119.95,
+          "description": "Waterproof jacket by Helly Hansen, designed for extreme weather conditions. Features a breathable membrane.",
+          "category": "women's clothing",
+          "color": "grey",
+          "size": "large",
+          "image": "https://m.media-amazon.com/images/I/71QIJyG1-3L.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 150
+          }
+        },
+        {
+          "title": "Mountain Hardwear Super DS Stretchdown Jacket",
+          "price": 299.00,
+          "description": "Highly insulated and compressible jacket from Mountain Hardwear, designed for extreme cold weather.",
+          "category": "women's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5cmEIHGEi0CwYz_WnHkUZ43o6tNI8cxocw&s",
+          "rating": {
+            "rate": 4.9,
+            "count": 100
+          }
+        },
+        {
+          "title": "Vans MTE Jacket",
+          "price": 89.99,
+          "description": "Vans MTE jacket, designed for cold and wet conditions. A great choice for skateboarding in winter.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "small",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8ytgTqSCJnEAJjcV3SvlDbNB4Vo39Asu1Q&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 180
+          }
+        },
+        {
+          "title": "Abercrombie & Fitch Puffer Jacket",
+          "price": 129.00,
+          "description": "Stylish and warm puffer jacket from Abercrombie & Fitch. Perfect for cold urban weather.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "large",
+          "image": "https://images-cdn.ubuy.co.in/636de8252e17ec66471d16e3-abercrombie-amp-fitch-vegan.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 190
+          }
+        },
+        {
+          "title": "Reebok Sport Jacket",
+          "price": 89.00,
+          "description": "A sporty jacket by Reebok, designed for comfort during outdoor sports and activities.",
+          "category": "men's clothing",
+          "color": "pink",
+          "size": "medium",
+          "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018153589_437Wx649H_202306291619135.jpeg",
+          "rating": {
+            "rate": 4.4,
+            "count": 160
           }
         }
+
+        
+  
       ]
 }
