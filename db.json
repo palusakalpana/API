@@ -1,18 +1,6 @@
 {
     "products": [
-      {
-        "title": "Nike Sportswear Backpack",
-        "price": 45.99,
-        "description": "Durable Nike backpack designed for sports and daily use. Features multiple compartments and a comfortable back panel.",
-        "category": "men's clothing",
-        "color": "black",
-        "size": "medium",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20210729/WOYS/6102ce38f997ddb3123f4229/-473Wx593H-460899217-black-MODEL2.jpg",
-        "rating": {
-          "rate": 4.3,
-          "count": 80
-        }
-      },
+     
       {
         "title": "Adidas Classic Backpack",
         "price": 39.95,
@@ -24,6 +12,19 @@
         "rating": {
           "rate": 4.5,
           "count": 150
+        }
+      },
+      {
+        "title": "Nike Sportswear Backpack",
+        "price": 45.99,
+        "description": "Durable Nike backpack designed for sports and daily use. Features multiple compartments and a comfortable back panel.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20210729/WOYS/6102ce38f997ddb3123f4229/-473Wx593H-460899217-black-MODEL2.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 80
         }
       },
       {
@@ -1181,9 +1182,1076 @@
             "rate": 4.4,
             "count": 160
           }
+        },
+        {
+          "title": "Adidas Running Shoes",
+          "price": 65.99,
+          "description": "Breathable and lightweight running shoes with superior cushioning. Ideal for workouts and casual wear.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "10",
+          "image": " https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQRVDDxOTiKvhCpWOVtg9I9If4vx4wkEisl_UFf5ZjmbB84EdjLkOEnxOzmQg0zmXjKc4SyBOMP6ZUuJ6HXILxl4_p3ZrZbNzpEZwDIzPMgr8GbaXwjyxwR8pd7U2Ihe1npJQ832BJt2WI&usqp=CAc ",
+          "rating": {
+            "rate": 4.6,
+            "count": 120
+          }
+        },
+        {
+          "title": "Puma Gym Duffle Bag",
+          "price": 39.99,
+          "description": "Spacious and stylish duffle bag perfect for gym gear and short trips. Water-resistant material.",
+          "category": "men's clothing",
+          "color": "navy blue",
+          "size": "large",
+          "image": " https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSRg0ZEIu0IJiTKpHsjNwjktKVxaly9r5c95YXVXNU-kNx2Yd1xqvuT32bDrMF0aZ7M_NSWwbqCEb7MO3hC6X39WQduX98bODrUpXWj4KKRbdAQd5DMx8X8UiUIXPr3sI9QQe0C34&usqp=CAc ",
+          "rating": {
+            "rate": 4.5,
+            "count": 95
+          }
+        },
+        {
+          "title": "Nike Sweat-Wicking Headband",
+          "price": 9.99,
+          "description": "Comfortable headband with moisture-wicking technology to keep sweat away during workouts.",
+          "category": "men's clothing",
+          "color": "white",
+          "size": "one size",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGoApJhqmZTvcqTQ5ZCJnq7cqD_4RmsrdzwcUksRtr1JN90n6c8KlRUvxx_E3vtYqEQGDs-YO46m-2TlXQggyH4ffUvc_fyrD4Be9ddBOFdfKjhtNY3--oh1M ",
+          "rating": {
+            "rate": 4.4,
+            "count": 60
+          }
+        },
+        {
+          "title": "Under Armour Compression Shirt",
+          "price": 29.99,
+          "description": "Tight-fitting compression shirt to enhance performance and muscle recovery.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": " https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfEfj5aDlla8rapjixcmDyQXQw2GkQUpuiujqAnL_mnBNum8YlHEozkhlhTJ_CKbgiX5aiYDqbDnzIdZh3Q6s7O8T8ukDhE_YnEDhmgmwKb_WVw4zpAkorsfOYcevDXxTF_hpnh0DJk90&usqp=CAc ",
+          "rating": {
+            "rate": 4.7,
+            "count": 88
+          }
+        },
+        {
+          "title": "Reebok Training Shorts",
+          "price": 24.99,
+          "description": "Comfortable and flexible shorts designed for high-intensity training sessions.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "large",
+          "image": " https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVVYWN6ud0Sf5ev3Vlbq3tqGlL2nx5dphTZ5lvHvnJu3pDpzJQgtEi4a_Wg1RKgI6rfP3eyS-X5wGp1eoRy1o9xPIav5HyMxiBcbGw7pZPuMN1WQEDCAhcA-yy&usqp=CAc ",
+          "rating": {
+            "rate": 4.3,
+            "count": 70
+          }
+        },
+        {
+          "title": "Asics Sports Cap",
+          "price": 14.99,
+          "description": "UV-protective cap for outdoor sports. Lightweight and breathable fabric.",
+          "category": "men's clothing",
+          "color": "red",
+          "size": "adjustable",
+          "image": " https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_DSDXUCugJ62kTOckfaoOevHDgZpYzIPSmPflS_J_HvFbMktaPilQLp0nGV5OaghAr8vC7ZF0n5H7lp4ysH3q0ofN0-tjaIX8ePrp4zAsKFDG0I8D5MQRkbc ",
+          "rating": {
+            "rate": 4.1,
+            "count": 52
+          }
+        },
+        {
+          "title": "Adidas Climacool T-Shirt",
+          "price": 27.99,
+          "description": "Stay cool and dry with this breathable and quick-drying t-shirt for workouts.",
+          "category": "men's clothing",
+          "color": "white",
+          "size": "small",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2wzAoyBxjPGm4K68-B70r5ULaHZOj9ruiA&s ",
+          "rating": {
+            "rate": 4.5,
+            "count": 112
+          }
+        },
+        {
+          "title": "Under Armour Gym Backpack",
+          "price": 55.99,
+          "description": "Heavy-duty backpack with separate compartments for shoes, laptop, and gear.",
+          "category": "men's clothing",
+          "color": "olive green",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSWXMlCixD-axmChb0rGYEu667OT5u-R9y2g&s ",
+          "rating": {
+            "rate": 4.8,
+            "count": 140
+          }
+        },
+        {
+          "title": "Puma Slide Sandals",
+          "price": 19.99,
+          "description": "Comfortable slide sandals with molded footbed for daily use.",
+          "category": "men's clothing",
+          "color": "black/white",
+          "size": "9",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20231012/v51O/6527aa5eafa4cf41f53d7afc/-473Wx593H-466178739-black-MODEL.jpg ",
+          "rating": {
+            "rate": 4.4,
+            "count": 74
+          }
+        },
+        {
+          "title": "Nike Lightweight Hoodie",
+          "price": 59.99,
+          "description": "Light and breathable hoodie for layering during early morning runs.",
+          "category": "men's clothing",
+          "color": "charcoal",
+          "size": "large",
+          "image": " https://m.media-amazon.com/images/I/91PJOF5vsSL._AC_UY1100_.jpg ",
+          "rating": {
+            "rate": 4.7,
+            "count": 132
+          }
+        },
+        {
+          "title": "Reebok Compression Tights",
+          "price": 34.99,
+          "description": "High-performance tights with seamless stitching for mobility and comfort.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": " https://imagescdn.reebok.in/img/app/product/3/39623072-12790686.jpg?auto=format&w=390 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 67
+          }
+        },
+        {
+          "title": "Nike Sports Cap",
+          "price": 15.99,
+          "description": "Classic cap with breathable eyelets and adjustable strap for a custom fit.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "adjustable",
+          "image": " https://m.media-amazon.com/images/I/41Bz107mKWL._AC_UY1100_.jpg ",
+          "rating": {
+            "rate": 4.3,
+            "count": 51
+          }
+        },
+        {
+          "title": "Adidas Yoga Mat",
+          "price": 29.99,
+          "description": "Eco-friendly yoga mat with non-slip texture and cushioning.",
+          "category": "men's clothing",
+          "color": "green",
+          "size": "standard",
+          "image": " https://m.media-amazon.com/images/I/61XFq4VQ6WL.jpg ",
+          "rating": {
+            "rate": 4.5,
+            "count": 90
+          }
+        },
+        {
+          "title": "Puma Wristbands (2 Pack)",
+          "price": 7.99,
+          "description": "Soft absorbent wristbands to keep sweat at bay during workouts.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "one size",
+          "image": " https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/054791/01/fnd/EEA/fmt/png/PUMA-x-HYROX-Wristbands-(2-pack)",
+          "rating": {
+            "rate": 4.2,
+            "count": 40
+          }
+        },
+      
+        {
+          "title": "Columbia Fleece Jacket",
+          "price": 69.99,
+          "description": "Warm fleece jacket perfect for outdoor adventures and chilly weather.",
+          "category": "men's clothing",
+          "color": "navy",
+          "size": "medium",
+          "image": " https://cdn.staticans.com/image/tr:e-sharpen-01,h-650,w-488,cm-pad_resize/data/Columbia/17sep2024/AE2205-468-1.jpg ",
+          "rating": {
+            "rate": 4.7,
+            "count": 82
+          }
+        },
+        {
+          "title": "Decathlon Gym Gloves",
+          "price": 11.49,
+          "description": "Padded gym gloves offering excellent grip and wrist support for lifting.",
+          "category": "men's clothing",
+          "color": "black/red",
+          "size": "medium",
+          "image": " https://contents.mediadecathlon.com/p1656820/7609950b6b7bb8993df4be0fae056bca/p1656820.jpg ",
+          "rating": {
+            "rate": 4.4,
+            "count": 58
+          }
+        },
+        {
+          "title": "Nike Running Socks (3-Pack)",
+          "price": 13.99,
+          "description": "Comfortable and breathable socks designed to reduce foot fatigue.",
+          "category": "men's clothing",
+          "color": "white",
+          "size": "free size",
+          "image": " https://m.media-amazon.com/images/I/41OG2RVdohL._AC_UY1000_.jpg ",
+          "rating": {
+            "rate": 4.5,
+            "count": 73
+          }
+        },
+        {
+          "title": "Asics Running Tank Top",
+          "price": 22.99,
+          "description": "Ultra-lightweight and breathable tank designed for peak performance.",
+          "category": "men's clothing",
+          "color": "lime green",
+          "size": "small",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4mlE_qs-s7Ld8eMCTCW3g-CMfM7TvnOH7w&s ",
+          "rating": {
+            "rate": 4.3,
+            "count": 66
+          }
+        },
+        {
+          "title": "Adidas Adjustable Dumbbells (Pair)",
+          "price": 85.99,
+          "description": "Versatile adjustable dumbbells for home workouts. Ranges from 5 to 25 lbs.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "adjustable",
+          "image": " https://m.media-amazon.com/images/I/61ux9y6kc1L._AC_UF894,1000_QL80_.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 110
+          }
+        },
+        {
+          "title": "Reebok Sports Watch",
+          "price": 59.99,
+          "description": "Digital sports watch with stopwatch, alarm, and water resistance.",
+          "category": "men's clothing",
+          "color": "black/blue",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfhMJQG3ayElkU3Vh2yXr1m_jxXdBJ4N-2fQ&s",
+          "rating": {
+            "rate": 4.2,
+            "count": 45
+          }
+        },
+        {
+          "title": "Puma Reflective Running Vest",
+          "price": 18.49,
+          "description": "Stay visible during night runs with this lightweight reflective vest.",
+          "category": "men's clothing",
+          "color": "neon yellow",
+          "size": "adjustable",
+          "image": " https://images.puma.net/images/525057/39/mod01/fnd/IND/w/800/h/800/ ",
+          "rating": {
+            "rate": 4.4,
+            "count": 37
+          }
+        },
+        {
+          "title": "Nike Yoga Shorts",
+          "price": 31.99,
+          "description": "Flexible and soft yoga shorts with sweat-wicking fabric.",
+          "category": "men's clothing",
+          "color": "ash grey",
+          "size": "large",
+          "image": " https://cdn.shopify.com/s/files/1/0603/3031/1875/files/1_28477c74-d655-41e2-97fd-ade0d72479d1_540x.jpg?=75&v=1707917554 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 68
+          }
+        },
+        {
+          "title": "Under Armour Sports Water Bottle",
+          "price": 17.99,
+          "description": "Leak-proof and BPA-free bottle with one-hand operation lid.",
+          "category": "men's clothing",
+          "color": "clear/black",
+          "size": "750ml",
+          "image": " https://m.media-amazon.com/images/I/61PQRMZMhWL.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 101
+          }
+        },
+        {
+          "title": "Adidas Ankle Weights (Pair)",
+          "price": 27.99,
+          "description": "Add resistance to your workouts with these comfortable ankle weights.",
+          "category": "electronics",
+          "color": "black/grey",
+          "size": "2kg each",
+          "image": " https://m.media-amazon.com/images/I/51WOkmBhA-L._AC_UF894,1000_QL80_.jpg ",
+          "rating": {
+            "rate": 4.3,
+            "count": 54
+          }
+        },
+        {
+          "title": "New Balance Training Hoodie",
+          "price": 52.99,
+          "description": "Moisture-wicking training hoodie with kangaroo pocket and thumbholes.",
+          "category": "men's clothing",
+          "color": "teal",
+          "size": "medium",
+          "image": " https://nb.scene7.com/is/image/NB/mt43563heb_nb_70_i?$pdpflexf2$&wid=440&hei=440 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 78
+          }
+        },
+        {
+          "title": "Decathlon Push-Up Bars",
+          "price": 14.49,
+          "description": "Ergonomically designed push-up bars to reduce wrist strain during exercises.",
+          "category": "men's clothing",
+          "color": "black/orange",
+          "size": "standard",
+          "image": " https://contents.mediadecathlon.com/p1030211/536aa7aaab21e2a33dd054d4189c24db/p1030211.jpg?format=auto&quality=70&f=2520x0 ",
+          "rating": {
+            "rate": 4.4,
+            "count": 39
+          }
+        },
+        {
+          "title": "Nike Pro Base Layer Leggings",
+          "price": 41.99,
+          "description": "Base layer compression leggings to support training in cold conditions.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "large",
+          "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/befbb400-a9fe-4322-b661-fc53f0e150e5/AS+M+NP+DF+TIGHT.png ",
+          "rating": {
+            "rate": 4.7,
+            "count": 93
+          }
+        },
+        {
+          "title": "Puma Classic Sports Tee",
+          "price": 19.99,
+          "description": "Soft cotton t-shirt with Puma logo, great for workouts and casual wear.",
+          "category": "men's clothing",
+          "color": "maroon",
+          "size": "medium",
+          "image": " https://images-static.nykaa.com/media/catalog/product/4/b/4b288db68078424_1.jpg?tr=w-500 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 80
+          }
+        },
+        {
+          "title": "Adidas Calf Sleeves",
+          "price": 21.99,
+          "description": "Compression sleeves for calf support during running or recovery.",
+          "category": "women's clothing",
+          "color": "blue",
+          "size": "free size",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANz7tNbgnMuaBmDWHehi1jEpHs4loBCiXKg&s ",
+          "rating": {
+            "rate": 4.3,
+            "count": 49
+          }
+        },
+        {
+          "title": "Aurelia Printed Straight Kurti",
+          "price": 999,
+          "description": "Cotton blend kurti with elegant prints and 3/4th sleeves, ideal for daily wear.",
+          "category": "women's clothing",
+          "color": "blue",
+          "size": "M",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20240201/gf5w/65bb975a16fd2c6e6acf5fce/-473Wx593H-442197766-blue-MODEL.jpg ",
+          "rating": {
+            "rate": 4.3,
+            "count": 72
+          }
+        },
+        {
+          "title": "W Kurta with Mirror Work",
+          "price": 1499,
+          "description": "Chanderi silk kurta with mirror detailing and side slits for a festive look.",
+          "category": "women's clothing",
+          "color": "peach",
+          "size": "L",
+          "image": " https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/22788870/2024/8/19/3cc67c00-4360-4613-8960-a1e505e754951724051430294-Stylum-Peach-Coloured--Pink-Woven-Design-Mirror-Work-Kurta-W-1.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 95
+          }
+        },
+        {
+          "title": "Biba A-line Kurti",
+          "price": 1349,
+          "description": "A-line kurti with floral prints and notched neckline. Perfect for office wear.",
+          "category": "women's clothing",
+          "color": "green",
+          "size": "S",
+          "image": " https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw2156d2e0/images/aw21/assorted17929eaw21grn_1.jpg?sw=502&sh=753 ",
+          "rating": {
+            "rate": 4.4,
+            "count": 88
+          }
+        },
+        {
+          "title": "Global Desi Embroidered Kurta",
+          "price": 1799,
+          "description": "Rayon kurta with intricate embroidery and a mandarin collar.",
+          "category": "women's clothing",
+          "color": "maroon",
+          "size": "M",
+          "image": " https://img.tatacliq.com/images/i8/437Wx649H/MP000000012341816_437Wx649H_202205311304401.jpeg ",
+          "rating": {
+            "rate": 4.7,
+            "count": 64
+          }
+        },
+        {
+          "title": "Libas Anarkali Kurta",
+          "price": 1299,
+          "description": "Floor-length Anarkali kurta with ethnic motifs and 3/4 sleeves.",
+          "category": "women's clothing",
+          "color": "yellow",
+          "size": "L",
+          "image": " https://www.libas.in/cdn/shop/files/yellow-embroidered-georgette-anarkali-kurta-with-churidar-and-dupatta-libas-1.jpg?v=1738918106 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 77
+          }
+        },
+        {
+          "title": "AKS Foil Print Kurta",
+          "price": 899,
+          "description": "Straight fit kurta with gold foil print. Ideal for casual outings.",
+          "category": "women's clothing",
+          "color": "white",
+          "size": "M",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1agttV4D1A9uPkhiFUGzFrhNygYLi_-b6cA&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 51
+          }
+        },
+        {
+          "title": "Rangriti Straight Kurta",
+          "price": 799,
+          "description": "Comfortable cotton straight kurta with classic floral prints.",
+          "category": "women's clothing",
+          "color": "pink",
+          "size": "L",
+          "image": " https://www.rangriti.com/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-rangriti-product-catalog/default/dweef4ca50/images/aw22/rmmworkwea17034aw22pnk_1.jpg?sw=502&sh=753 ",
+          "rating": {
+            "rate": 4.1,
+            "count": 39
+          }
+        },
+        {
+          "title": "Soch Printed Kurti",
+          "price": 999,
+          "description": "Printed cotton kurti with flared hem and soft fabric for daily wear.",
+          "category": "women's clothing",
+          "color": "beige",
+          "size": "S",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLxD8Ax-Iu4X4kd9mBklgACJZWltG9oEAzA&s ",
+          "rating": {
+            "rate": 4.4,
+            "count": 60
+          }
+        },
+        {
+          "title": "Indya Sequin Work Kurta",
+          "price": 1899,
+          "description": "Elegant party-wear kurta with sequin details and side slits.",
+          "category": "women's clothing",
+          "color": "black",
+          "size": "M",
+          "image": " https://img.faballey.com/images/Product/ILK03165Z/3.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 87
+          }
+        },
+        {
+          "title": "Zola Short Kurti",
+          "price": 599,
+          "description": "Short kurti perfect for pairing with jeans. Casual and comfy.",
+          "category": "women's clothing",
+          "color": "red",
+          "size": "L",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20230624/6OAh/64965bfdeebac147fcf10098/-473Wx593H-465182165-maroon-MODEL.jpg",
+          "rating": {
+            "rate": 4.3,
+            "count": 42
+          }
+        },
+        {
+          "title": "AND Flared Maxi Skirt",
+          "price": 1599,
+          "description": "High-waisted maxi skirt with soft pleats and side zip closure. Elegant and flowy.",
+          "category": "women's clothing",
+          "color": "navy blue",
+          "size": "M",
+          "image": " https://www.apeksh.co.in/cdn/shop/files/Azd1zIje.jpg?v=1728330815 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 72
+          }
+        },
+        {
+          "title": "Global Desi Tiered Long Skirt",
+          "price": 1399,
+          "description": "Boho-style tiered skirt with ethnic prints and drawstring waist.",
+          "category": "women's clothing",
+          "color": "rust orange",
+          "size": "S",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16Q8bYFB5vwlnsxfVKle39p2eqVb6N0T0CQ&s",
+          "rating": {
+            "rate": 4.5,
+            "count": 55
+          }
+        },
+        {
+          "title": "W Straight Skirt with Slit",
+          "price": 1199,
+          "description": "Straight cut skirt with side slit and waistband. Ideal for formal settings.",
+          "category": "women's clothing",
+          "color": "black",
+          "size": "L",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20230628/z8NK/649bd6dea9b42d15c90b934c/-1117Wx1400H-465928808-black-MODEL.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 60
+          }
+        },
+        {
+          "title": "Indya Embroidered Skirt",
+          "price": 1999,
+          "description": "Festive long skirt with golden embroidery. Perfect for weddings and functions.",
+          "category": "women's clothing",
+          "color": "maroon",
+          "size": "M",
+          "image": "https://img.faballey.com/images/Product/ISK00120Z/4.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 80
+          }
+        },
+        {
+          "title": "AKS Printed Wrap Skirt",
+          "price": 899,
+          "description": "Cotton wrap-around skirt with traditional prints. Boho-chic style.",
+          "category": "women's clothing",
+          "color": "multicolor",
+          "size": "Free",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOlmGmbMBHc_adNh5Zfh5hUdeYaN-u-TUiw&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 48
+          }
+        },
+        {
+          "title": "Fusion Beats Pleated Midi Skirt",
+          "price": 999,
+          "description": "Solid pleated midi skirt for everyday chic look.",
+          "category": "women's clothing",
+          "color": "beige",
+          "size": "M",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmouKBDEpZrmZz8SqtAh3nXn3IuYow3JNA2w&s",
+          "rating": {
+            "rate": 4.3,
+            "count": 52
+          }
+        },
+        {
+          "title": "Rangmanch by Pantaloons Flared Skirt",
+          "price": 1099,
+          "description": "Ethnic flared skirt with zari border and elastic waist.",
+          "category": "women's clothing",
+          "color": "pink",
+          "size": "L",
+          "image": " https://rukminim1.flixcart.com/image/300/300/xif0q/skirt/n/b/z/m-1-110142177peach-rangmanch-by-pantaloons-original-imagu5mdbah3hkk9.jpeg ",
+          "rating": {
+            "rate": 4.5,
+            "count": 66
+          }
+        },
+        {
+          "title": "Tokyo Talkies Denim Skirt",
+          "price": 849,
+          "description": "Casual front-button denim skirt with pockets.",
+          "category": "women's clothing",
+          "color": "light blue",
+          "size": "M",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0k5NYJdmssq_xHmw_GKk_fHTvsxq5QExjvw&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 58
+          }
+        },
+        {
+          "title": "Style Quotient Pencil Skirt",
+          "price": 699,
+          "description": "Solid pencil skirt for a sleek and polished look.",
+          "category": "women's clothing",
+          "color": "grey",
+          "size": "S",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJ9hf0tcPTNptlpQq7nyyXoXV_X8Z5KD-yw&s ",
+          "rating": {
+            "rate": 4.0,
+            "count": 44
+          }
+        },
+        {
+          "title": "Berrylush Floral Slit Skirt",
+          "price": 899,
+          "description": "Floral printed skirt with a side slit and high-waisted fit.",
+          "category": "women's clothing",
+          "color": "blue",
+          "size": "M",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjBD8HE5JywB33bf0YuO6xDmXO2YwgTH1Sw&s ",
+          "rating": {
+            "rate": 4.4,
+            "count": 49
+          }
+        },
+        {
+          "title": "Tanishq Timeless Twists Diamond Stud Earrings",
+          "price": 47188,
+          "description": "Elegant diamond stud earrings crafted in 18K gold, perfect for daily wear.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": " https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8223e352/images/hi-res/50D1D2SJZAGA02_1.jpg ",
+          "rating": {
+            "rate": 4.8,
+            "count": 120
+          }
+        },
+        {
+          "title": "Kalyan Jewellers Duchess Diamond Ring",
+          "price": 55200,
+          "description": "A regal diamond ring set in 22K gold, exuding sophistication.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "7",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8wAUXa2Q8rQv3ej9pfcSES-SjDstFV5Bmg&s ",
+          "rating": {
+            "rate": 4.7,
+            "count": 95
+          }
+        },
+        {
+          "title": "Zariin Evil Eye Enamel Neck Chain",
+          "price": 1350,
+          "description": "A protective evil eye necklace with enamel detailing, ideal for layering.",
+          "category": "jewelery",
+          "color": "turquoise",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqgRtw3knnY_yMSmJbFKBhCLGl7ayonsHmrQ&s ",
+          "rating": {
+            "rate": 4.5,
+            "count": 60
+          }
+        },
+        {
+          "title": "Mia by Tanishq Luxuriant Diamond Pendant",
+          "price": 41221,
+          "description": "A luxurious diamond pendant set in 18K gold, perfect for special occasions.",
+          "category": "jewelery",
+          "color": "rose gold",
+          "size": "standard",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREEToocHx0azDOIKZ8pA7ZeeRqDnw0UkiRmg&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 110
+          }
+        },
+        {
+          "title": "AZGA Baroque Pearl Neck Chain",
+          "price": 1800,
+          "description": "A classic baroque pearl necklace with a modern twist.",
+          "category": "jewelery",
+          "color": "white",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLmdFeXOAPAJTdTjzbrQqeE_i5li3vsD-dQ&s",
+          "rating": {
+            "rate": 4.4,
+            "count": 85
+          }
+        },
+        {
+          "title": "Nykaa Fashion Kundan Choker Set",
+          "price": 2999,
+          "description": "Traditional Kundan choker set with matching earrings, ideal for weddings.",
+          "category": "jewelery",
+          "color": "green",
+          "size": "standard",
+          "image": " https://images-static.nykaa.com/media/catalog/product/a/0/a0e6d0dAZAIJ00000614_1.jpg?tr=w-500 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 70
+          }
+        },
+        {
+          "title": "Flipkart Gold-Plated Pearl Drop Earrings",
+          "price": 499,
+          "description": "Elegant gold-plated earrings with pearl drops, suitable for daily wear.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyZcsJacu7PNhbgO8nJTlojySoTPsWbVSkw&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 150
+          }
+        },
+        {
+          "title": "AJIO Tribal Statement Necklace",
+          "price": 899,
+          "description": "Bold tribal-inspired necklace to elevate your ethnic outfits.",
+          "category": "jewelery",
+          "color": "silver",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-O7FiDSP3FTk0l9BrTWD4-DDUkyBPbXxKQ&s",
+          "rating": {
+            "rate": 4.3,
+            "count": 65
+          }
+        },
+        {
+          "title": "Zariin Heart Eye Adjustable Ring",
+          "price": 1250,
+          "description": "Chic adjustable ring with heart and eye motifs, perfect for stacking.",
+          "category": "jewelery",
+          "color": "ivory gold",
+          "size": "adjustable",
+          "image": " https://www.azga.in/cdn/shop/products/6L3A1354.jpg?v=1604142690 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 40
+          }
+        },
+        {
+          "title": "Tanishq Glimmering Grid Diamond Drop Earrings",
+          "price": 58999,
+          "description": "Exquisite diamond drop earrings with a grid pattern, set in 18K gold.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPqYZDvmTqN1OQBk3Kpp9XzP1eikKJdXEnQ&s ",
+          "rating": {
+            "rate": 4.8,
+            "count": 90
+          }
+        },
+        {
+          "title": "Kalyan Jewellers Ellena Diamond Earrings",
+          "price": 36200,
+          "description": "Delicate diamond earrings with a floral design, perfect for gifting.",
+          "category": "jewelery",
+          "color": "white gold",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTopJHGO6opUBHC-1LKg2b3nBWlFfMnQq5w&s ",
+          "rating": {
+            "rate": 4.7,
+            "count": 75
+          }
+        },
+        {
+          "title": "AZGA Evil Eye Bracelet - Rose Gold",
+          "price": 1150,
+          "description": "Protective evil eye bracelet in rose gold finish, adjustable fit.",
+          "category": "jewelery",
+          "color": "rose gold",
+          "size": "adjustable",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ-sp60ma5cWCEP86ePuwhjY0dVJiCtyDqw&s ",
+          "rating": {
+            "rate": 4.5,
+            "count": 55
+          }
+        },
+        {
+          "title": "Timeless Swirl Diamond Stud Earrings",
+          "price": 134877,
+          "description": "Elegant 18K rose gold stud earrings featuring 38 round SI2 clarity diamonds totaling 0.574 ct, inspired by dynamic floral designs.",
+          "category": "jewelery",
+          "color": "rose gold",
+          "size": "standard",
+          "image": " https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw18a42feb/images/hi-res/50D3D1SXPABA02_1.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 85
+          }
+        },
+        {
+          "title": "Graceful Twist Diamond Stud Earrings",
+          "price": 32225,
+          "description": "Delicate 18K yellow gold triangle-shaped stud earrings adorned with 12 round I1-I2 clarity diamonds totaling 0.102 ct, featuring a leaf motif.",
+          "category": "jewelery",
+          "color": "yellow gold",
+          "size": "standard",
+          "image": " https://www.miabytanishq.com/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc690580b/images/Mia/hi-res/3824SKC.jpg?sw=640&sh=640",
+          "rating": {
+            "rate": 4.5,
+            "count": 60
+          }
+        },
+        {
+          "title": "Gold Timeless Twist Diamond Stud Earrings",
+          "price": 9295,
+          "description": "14K gold stud earrings set with 2 lab-grown FG VVS/VS diamonds totaling 0.07 ct, offering a modern twist design.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMo9lIdc9z1VZFV4ICzAkGW3LA7Tmvhezdw&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 70
+          }
+        },
+        {
+          "title": "Samsung Galaxy S21 Smartphone",
+          "price": 799,
+          "description": "The Samsung Galaxy S21 features a 6.2-inch screen, triple camera system, and a 4000mAh battery. Perfect for everyday use.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbHiaD7wHad8vmgLcIAxASbx4ZwancCCoUJg3swoNfVa1VEnw2d5b-wyIMO-zpT_UKQqZiqsaCnBZTlYRUiV1v44jTdwm95cqHAkiY_QBmQO224kIjtRec8w",
+          "rating": { "rate": 4.5, "count": 1345 },
+          "color": "Phantom Gray"
+        },
+        {
+          "title": "Sony Noise Cancelling Headphones",
+          "price": 299,
+          "description": "Wireless over-ear headphones with noise-canceling technology, ideal for travel and music enthusiasts.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/51rpbVmi9XL.jpg",
+          "rating": { "rate": 4.7, "count": 786 },
+          "color": "Black"
+        },
+        {
+          "title": "Apple AirPods Pro",
+          "price": 249,
+          "description": "Active Noise Cancellation and Adaptive Transparency for an immersive audio experience.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.8, "count": 1743 },
+          "color": "White"
+        },
+        {
+          "title": "Fitbit Charge 4 Fitness Tracker",
+          "price": 129,
+          "description": "Track your activity, heart rate, and sleep patterns with this fitness tracker.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71smqRr0pmL.jpg",
+          "rating": { "rate": 4.3, "count": 987 },
+          "color": "Black"
+        },
+        {
+          "title": "Echo Dot (4th Gen) Smart Speaker",
+          "price": 49.99,
+          "description": "Voice-controlled smart speaker with Alexa built-in, perfect for smart home integration.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61dgl2srHDL._AC_UF350,350_QL80_.jpg",
+          "rating": { "rate": 4.6, "count": 8321 },
+          "color": "Charcoal"
+        },
+        {
+          "title": "Canon EOS Rebel T7 DSLR Camera",
+          "price": 549,
+          "description": "A beginner-friendly DSLR camera with a 24.1 MP sensor, perfect for photography enthusiasts.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61TSYuJ9ySL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.5, "count": 456 },
+          "color": "Black"
+        },
+        {
+          "title": "Nintendo Switch Console",
+          "price": 299,
+          "description": "The Nintendo Switch lets you play games at home or on the go with this hybrid console.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/51Gz7IimgoL._AC_UF894,1000_QL80_.jpg",
+          "rating": { "rate": 4.8, "count": 1945 },
+          "color": "Neon Red/Blue"
+        },
+        {
+          "title": "GoPro Hero 9 Black",
+          "price": 399,
+          "description": "Ultra-durable and waterproof action camera with 5K video and 20MP photos.",
+          "category": "electronics",
+          "image": "https://gppro.in/wp-content/uploads/2024/11/GoPro-Hero-9_6.jpg",
+          "rating": { "rate": 4.7, "count": 1200 },
+          "color": "Black"
+        },
+        {
+          "title": "Anker PowerCore 10000 Portable Charger",
+          "price": 25.99,
+          "description": "Compact, portable charger with 10000mAh capacity for your phone or tablet.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61m1YEHW3YL.jpg",
+          "rating": { "rate": 4.6, "count": 1123 },
+          "color": "Black"
+        },
+        {
+          "title": "JBL Flip 5 Bluetooth Speaker",
+          "price": 89.95,
+          "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61os0x049mL.jpg",
+          "rating": { "rate": 4.5, "count": 1346 },
+          "color": "Red"
+        },
+        {
+          "title": "Roku Streaming Stick 4K",
+          "price": 49.99,
+          "description": "Stream your favorite shows in 4K resolution with the Roku Streaming Stick.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71nulLJ9VmL.jpg",
+          "rating": { "rate": 4.4, "count": 2157 },
+          "color": "Black"
+        },
+        {
+          "title": "Samsung 32” Curved Monitor",
+          "price": 199,
+          "description": "Experience a wide view with this 32” curved monitor, ideal for gaming and work.",
+          "category": "electronics",
+          "image": "https://microless.com/cdn/products/e1ff5413ccfa689ca6ee5f8d8956b234-md.jpg",
+          "rating": { "rate": 4.2, "count": 820 },
+          "color": "Black"
+        },
+        {
+          "title": "Lenovo ThinkPad X1 Carbon Laptop",
+          "price": 1200,
+          "description": "A powerful business laptop with a 14” screen and Intel i7 processor.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/41AW34vZZdL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.6, "count": 1645 },
+          "color": "Black"
+        },
+        {
+          "title": "Microsoft Surface Pro 7 Tablet",
+          "price": 749,
+          "description": "A versatile tablet that doubles as a laptop with a detachable keyboard.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61qS1eDVy9S.jpg",
+          "rating": { "rate": 4.7, "count": 321 },
+          "color": "Platinum"
+        },
+        {
+          "title": "Sony PlayStation 5",
+          "price": 499,
+          "description": "The latest PlayStation console offering next-gen gaming performance.",
+          "category": "electronics",
+          "image": "https://sathya.in/media/95926/catalog/1%20(51).jpg",
+          "rating": { "rate": 4.9, "count": 6421 },
+          "color": "White"
+        },
+        {
+          "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+          "price": 299,
+          "description": "360-degree sound with deep bass, perfect for your home or outdoor adventures.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71cU1KriEyL.jpg",
+          "rating": { "rate": 4.8, "count": 2347 },
+          "color": "Silver"
+        },
+        {
+          "title": "Apple Watch Series 6",
+          "price": 399,
+          "description": "Advanced health monitoring, GPS, and always-on display in a sleek smartwatch.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYXq_bfLHWDvGPHp3ZKJew_e2tFWdDdHM2A&s",
+          "rating": { "rate": 4.7, "count": 1234 },
+          "color": "Blue"
+        },
+        {
+          "title": "Acer Predator Helios 300 Gaming Laptop",
+          "price": 1299,
+          "description": "A high-performance gaming laptop with NVIDIA GeForce GTX 1660 Ti graphics.",
+          "category": "electronics",
+          "image": "https://images-cdn.ubuy.co.in/634005433f4f712dd4290459-acer-predator-helios-300-gaming-laptop.jpg",
+          "rating": { "rate": 4.6, "count": 654 },
+          "color": "Black"
+        },
+        {
+          "title": "Beats by Dre Studio3 Wireless Headphones",
+          "price": 349,
+          "description": "Noise-canceling over-ear headphones with up to 22 hours of battery life.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/618aVzbPMjL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.5, "count": 785 },
+          "color": "Matte Black"
+        },
+        {
+          "title": "Logitech MX Master 3 Wireless Mouse",
+          "price": 99.99,
+          "description": "Ergonomically designed wireless mouse with precise tracking and customizable buttons.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.8, "count": 1123 },
+          "color": "Graphite"
+        },
+        {
+          "title": "Seagate Backup Plus Portable 2TB Drive",
+          "price": 89.99,
+          "description": "Portable hard drive with 2TB of storage, ideal for backing up large files.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/618jxrTWXIL.jpg",
+          "rating": { "rate": 4.4, "count": 654 },
+          "color": "Black"
+        },
+        {
+          "title": "Google Nest Learning Thermostat",
+          "price": 249,
+          "description": "A smart thermostat that learns your schedule and helps save energy.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71AcIJHaUXL._AC_UF894,1000_QL80_.jpg",
+          "rating": { "rate": 4.6, "count": 982 },
+          "color": "White"
+        },
+        {
+          "title": "Dyson V11 Torque Drive Cordless Vacuum",
+          "price": 599,
+          "description": "Cordless vacuum with powerful suction and intelligent cleaning modes.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5rykZTM2QkWl_qkYxjn9JWIjYIXObWS5cdA&s",
+          "rating": { "rate": 4.7, "count": 345 },
+          "color": "Iron/Silver"
+        },
+        {
+          "title": "Amazon Fire TV Stick 4K",
+          "price": 49.99,
+          "description": "Stream 4K content from your favorite apps with Alexa Voice Remote.",
+          "category": "electronics",
+          "image": "https://img.tatacliq.com/images/i5/437Wx649H/MP000000004608405_437Wx649H_20191015192849.jpeg",
+          "rating": { "rate": 4.6, "count": 2056 },
+          "color": "Black"
+        },
+        {
+          "title": "Razer DeathAdder Elite Gaming Mouse",
+          "price": 69.99,
+          "description": "Ergonomic gaming mouse with customizable RGB lighting and high-precision sensor.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/41e0ap8k3yL.jpg",
+          "rating": { "rate": 4.5, "count": 1456 },
+          "color": "Black"
+        },
+        {
+          "title": "Samsung Galaxy Buds Pro",
+          "price": 199,
+          "description": "Wireless earbuds with premium sound, noise cancellation, and long battery life.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaIbCLES-y8TTTFe24bzIPa_mMHESDgd9Gg&s",
+          "rating": { "rate": 4.6, "count": 1564 },
+          "color": "Phantom Violet"
         }
-
-        
+      
+       
   
       ]
 }
